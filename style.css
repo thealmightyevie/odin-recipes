@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+    background-color: paleturquoise;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 20px;
+}
+
+#fudge, #pecan {
+    color: brown;
+}
+
+#long-island {
+    color: orange;
+}
